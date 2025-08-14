@@ -1,5 +1,6 @@
 # test_ajax
 test project
+
 Спочатку я створила репозиторій на GitHub. Далі через GitBash я додала локальний репозиторій (за допомогою команди git init).
 Підключила зовнішній репозиторій з командою git remote add origin. Додала файли до локального репозиторію (git add .), створила перший коміт
 "Creating first commit" (команда git commit -m "Creating first commit"). 
