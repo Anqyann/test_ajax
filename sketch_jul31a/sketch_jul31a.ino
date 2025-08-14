@@ -1,21 +1,21 @@
 // #include <LCD5110_Basic.h>
 
 // // Піни: SCK, MOSI, DC, RST, CS
-// LCD5110 myGLCD(8, 9, 10, 12, 11);  // відповідно до твого підключення
+// LCD5110 myGLCD(8, 9, 10, 12, 11); 
 
 // extern uint8_t SmallFont[];
 
 // void setup() {
-//   myGLCD.InitLCD();             // Ініціалізація дисплея
-//   myGLCD.setFont(SmallFont);    // Встановлюємо шрифт
+//   myGLCD.InitLCD();            
+//   myGLCD.setFont(SmallFont);    
 
-//   myGLCD.clrScr();              // Очистити екран
+//   myGLCD.clrScr();              
 //   myGLCD.print("Hello!", CENTER, 2);
 
 // }
 
 // void loop() {
-//   // нічого не робимо
+//  
 // }
 
 
